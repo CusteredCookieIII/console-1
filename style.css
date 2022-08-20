@@ -1,0 +1,17 @@
+input{
+    width: 100px;
+    margin: 10px;
+}
+
+#submit{
+ width: 100px;
+}
+
+#sort{
+    display: none;
+    width: 100px;
+}
+
+body{
+    text-align: center;
+}
